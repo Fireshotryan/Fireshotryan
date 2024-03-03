@@ -1,5 +1,5 @@
 
-<h1 align="center">A developer from the Netherlands.s</h3>
+<h1 align="center">A developer from the Netherlands</h3>
 
 - 🌱 I’m currently learning **[Your current learning focus]**
 
