@@ -1,7 +1,7 @@
 
 <h1 align="center">A developer from the Netherlands</h3>
 
-- 🌱 I’m currently learning **[Your current learning focus]**
+- 🌱 I’m currently learning **[C++]**
 
 - 💬 Ask me about **PHP and Laravel**
 
