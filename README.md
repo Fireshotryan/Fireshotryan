@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
-<h3 align="center">A passionate developer from the Netherlands</h3>
+
+<h1 align="center">A developer from the Netherlands.s</h3>
 
 - 🌱 I’m currently learning **[Your current learning focus]**
 
