@@ -1,7 +1,7 @@
 
 <h1 align="center">A developer from the Netherlands</h3>
 
-- 🌱 I’m currently learning **[React Native]**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **PHP and Laravel**
 
