@@ -71,7 +71,6 @@ While I enjoy working across the full stack, my biggest passion is creating beau
 
 <p>
 <img src="https://skillicons.dev/icons?i=react" /><br>
-React Native
 </p>
 
 ### Game Development
