@@ -106,7 +106,6 @@ While I enjoy working across the full stack, my biggest passion is creating beau
 - ♿ Accessible Interfaces
 - 📱 Responsive Web Applications
 - 🎮 Browser Games
-- 🤖 AI-powered Web Applications
 - 🎨 Interactive UI Animations
 - ⚡ Performance-focused Experiences
 - 🧩 Custom CMS & Laravel Solutions
