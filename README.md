@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋 I'm Ryan de Man</h1>
+
 <h3 align="center">
-Front-End Developer • Accessibility Enthusiast • Creative Problem Solver
+Full Stack Developer with a passion for Front-End Development
 </h3>
 
 <p align="center">
-I build modern, accessible and interactive web experiences with a strong focus on performance, clean UI and user experience.
+I build modern, accessible and high-performance web applications.<br>
+While I enjoy working across the full stack, my biggest passion is creating beautiful, intuitive and user-friendly front-end experiences.
 </p>
 
 <p align="center">
-🇳🇱 Netherlands • Graduate Creative Media & Game Technologies
+🇳🇱 Netherlands • Creative Media & Game Technologies Graduate
 </p>
 
 ---
@@ -16,26 +18,45 @@ I build modern, accessible and interactive web experiences with a strong focus o
 ## 👨‍💻 About Me
 
 - 🎓 Graduate in **Creative Media & Game Technologies**
-- 💼 Front-End Developer passionate about creating modern web experiences
-- ♿ Strong interest in **Web Accessibility (WCAG)**
-- 🎨 I enjoy turning designs into polished, responsive websites
-- 🚀 Always experimenting with new ideas, browser games and portfolio projects
-- 🌱 Currently expanding my knowledge in **React**, **React Native** and modern JavaScript ecosystems
+- 💼 Full Stack Developer with a preference for **Front-End Development**
+- ♿ Passionate about **Web Accessibility (WCAG)** and inclusive design
+- 🎨 Love building modern interfaces with smooth animations and great UX
+- 🚀 Regularly creating portfolio projects, browser games and web applications
+- 🌱 Currently expanding my knowledge in **React**, **React Native** and modern JavaScript development
+- 🤝 Always interested in learning new technologies and improving my skills
+
+---
+
+## 🚀 Current Focus
+
+- Modern Front-End Development
+- Full Stack Web Applications
+- Accessibility (WCAG)
+- UI / UX Design
+- Laravel & PHP
+- React Ecosystem
+- Performance Optimization
 
 ---
 
 ## 🛠 Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+</p>
+
 ### Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
 
 ### Back-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 </p>
 
 ### Databases
@@ -47,57 +68,46 @@ I build modern, accessible and interactive web experiences with a strong focus o
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
-</p>
-
-### Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,react,ts" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 🚀 Things I Like Building
+## 💡 What I Enjoy Building
 
-- 🌐 Modern websites
-- ♿ Accessible interfaces (WCAG)
-- 🎮 Browser games
-- 🤖 AI powered web applications
-- 📱 Responsive web experiences
-- 🎨 Interactive UI animations
-- ⚡ Performance focused front-end development
-
----
-
-## 📌 Current Focus
-
-✔ Modern Front-End Development
-
-✔ Accessibility & Inclusive Design
-
-✔ Laravel & PHP
-
-✔ React Ecosystem
-
-✔ UI/UX
-
-✔ Performance Optimization
+- 🌐 Modern Websites
+- 📱 Responsive Web Applications
+- ♿ Accessible User Interfaces
+- 🎮 Browser Games
+- 🤖 AI-powered Web Applications
+- ✨ Interactive UI Animations
+- ⚡ Performance-focused Experiences
 
 ---
 
 ## 🌍 Portfolio
 
-**Website**
-
-👉 https://ryandeman.nl
+🌐 **Website:** https://ryandeman.nl
 
 ---
 
-## 📫 Connect
+## 📈 GitHub Statistics
 
-Portfolio: https://ryandeman.nl
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-GitHub: https://github.com/YOURUSERNAME
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-LinkedIn: https://linkedin.com/in/YOURUSERNAME
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://ryandeman.nl
+
+💼 LinkedIn: https://linkedin.com/in/YOURUSERNAME
+
+📧 Feel free to connect or reach out if you'd like to collaborate!
