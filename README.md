@@ -1,30 +1,103 @@
+<h1 align="center">Hi 👋 I'm Ryan de Man</h1>
+<h3 align="center">
+Front-End Developer • Accessibility Enthusiast • Creative Problem Solver
+</h3>
 
-<h1 align="center">A developer from the Netherlands</h3>
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **PHP and Laravel**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp;
- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> &nbsp;
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+<p align="center">
+I build modern, accessible and interactive web experiences with a strong focus on performance, clean UI and user experience.
 </p>
+
+<p align="center">
+🇳🇱 Netherlands • Graduate Creative Media & Game Technologies
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Graduate in **Creative Media & Game Technologies**
+- 💼 Front-End Developer passionate about creating modern web experiences
+- ♿ Strong interest in **Web Accessibility (WCAG)**
+- 🎨 I enjoy turning designs into polished, responsive websites
+- 🚀 Always experimenting with new ideas, browser games and portfolio projects
+- 🌱 Currently expanding my knowledge in **React**, **React Native** and modern JavaScript ecosystems
+
+---
+
+## 🛠 Tech Stack
+
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+</p>
+
+### Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,react,ts" />
+</p>
+
+---
+
+## 🚀 Things I Like Building
+
+- 🌐 Modern websites
+- ♿ Accessible interfaces (WCAG)
+- 🎮 Browser games
+- 🤖 AI powered web applications
+- 📱 Responsive web experiences
+- 🎨 Interactive UI animations
+- ⚡ Performance focused front-end development
+
+---
+
+## 📌 Current Focus
+
+✔ Modern Front-End Development
+
+✔ Accessibility & Inclusive Design
+
+✔ Laravel & PHP
+
+✔ React Ecosystem
+
+✔ UI/UX
+
+✔ Performance Optimization
+
+---
+
+## 🌍 Portfolio
+
+**Website**
+
+👉 https://ryandeman.nl
+
+---
+
+## 📫 Connect
+
+Portfolio: https://ryandeman.nl
+
+GitHub: https://github.com/YOURUSERNAME
+
+LinkedIn: https://linkedin.com/in/YOURUSERNAME
