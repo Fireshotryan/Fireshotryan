@@ -58,7 +58,7 @@ While I enjoy working across the full stack, my biggest passion is creating beau
 ### Back-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 </p>
 
 ### Databases
