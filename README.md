@@ -10,14 +10,14 @@ While I enjoy working across the full stack, my passion lies in creating beautif
 </p>
 
 <p align="center">
-🇳🇱 Netherlands • Creative Media & Game Technologies Graduate
+🇳🇱 Netherlands • Graduate from <a href="https://github.com/HR-CMGT">@HR-CMGT</a> (Creative Media & Game Technologies)
 </p>
 
 ---
 
 ## About Me
 
-- 🎓 Graduate in **Creative Media & Game Technologies (CMGT)**
+- 🎓 Graduate from **[@HR-CMGT](https://github.com/HR-CMGT)** *(Creative Media & Game Technologies)*
 - Full Stack Developer with a preference for **Front-End Development**
 - Passionate about **Web Accessibility (WCAG)** and inclusive design
 - Enjoy transforming ideas into polished, responsive and engaging web experiences
