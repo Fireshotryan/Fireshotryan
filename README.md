@@ -123,6 +123,6 @@ While I enjoy working across the full stack, my biggest passion is creating beau
 
 🌐 Portfolio: **https://ryandeman.nl**
 
-💼 LinkedIn: **https://linkedin.com/in/YOUR_LINKEDIN_USERNAME**
+💼 LinkedIn: **https://www.linkedin.com/in/ryan-de-man/**
 
 ⭐ Feel free to explore my repositories or reach out if you'd like to collaborate on a project!
