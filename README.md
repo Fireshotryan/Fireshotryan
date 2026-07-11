@@ -36,7 +36,6 @@ While I enjoy working across the full stack, my passion lies in creating beautif
 - Responsive Design
 - Angular & React
 - Laravel & PHP
-- AI Integrations
 - Performance Optimization
 
 ---
