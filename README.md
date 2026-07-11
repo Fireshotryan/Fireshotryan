@@ -6,7 +6,7 @@ Full Stack Developer with a passion for Front-End Development
 
 <p align="center">
 I build modern, accessible and high-performance web applications.<br>
-While I enjoy working across the full stack, my biggest passion is creating beautiful, intuitive and user-friendly front-end experiences.
+While I enjoy working across the full stack, my passion lies in creating beautiful, intuitive and user-friendly front-end experiences.
 </p>
 
 <p align="center">
@@ -15,29 +15,29 @@ While I enjoy working across the full stack, my biggest passion is creating beau
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 Graduate in **Creative Media & Game Technologies (CMGT)**
-- 💼 Full Stack Developer with a preference for **Front-End Development**
-- ♿ Passionate about **Web Accessibility (WCAG)** and inclusive design
-- 🎨 I enjoy transforming ideas into polished, responsive and engaging web experiences
-- 🚀 I regularly build portfolio projects, browser games, AI applications and modern websites
-- 🌱 Currently expanding my knowledge in **Angular**, **React**, **React Native**, **TypeScript** and modern web technologies
-- 🤝 Always learning new technologies and improving my development workflow
+- Full Stack Developer with a preference for **Front-End Development**
+- Passionate about **Web Accessibility (WCAG)** and inclusive design
+- Enjoy transforming ideas into polished, responsive and engaging web experiences
+- Regularly build portfolio projects, browser games, AI applications and modern websites
+- Currently expanding my knowledge in **Angular**, **React**, **React Native**, **TypeScript** and modern web technologies
+- Always learning new technologies and improving my development workflow
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- ⚡ Modern Front-End Development
-- 🌍 Full Stack Web Applications
-- ♿ Accessibility (WCAG)
-- 🎨 UI / UX Design
-- 📱 Responsive Design
-- ⚛️ Angular & React
-- 🚀 Laravel & PHP
-- 🤖 AI Integrations
-- 📈 Performance Optimization
+- Modern Front-End Development
+- Full Stack Web Applications
+- Accessibility (WCAG)
+- UI / UX Design
+- Responsive Design
+- Angular & React
+- Laravel & PHP
+- AI Integrations
+- Performance Optimization
 
 ---
 
@@ -71,6 +71,7 @@ While I enjoy working across the full stack, my biggest passion is creating beau
 
 <p>
 <img src="https://skillicons.dev/icons?i=react" /><br>
+React Native
 </p>
 
 ### Game Development
@@ -100,26 +101,26 @@ While I enjoy working across the full stack, my biggest passion is creating beau
 
 ---
 
-## 💡 Things I Enjoy Building
+## What I Enjoy Building
 
-- 🌐 Modern Websites
-- ♿ Accessible Interfaces
-- 📱 Responsive Web Applications
-- 🎮 Browser Games
-- 🎨 Interactive UI Animations
-- ⚡ Performance-focused Experiences
-- 🧩 Custom CMS & Laravel Solutions
+- Modern Websites
+- Accessible Interfaces
+- Responsive Web Applications
+- Browser Games
+- Interactive UI Animations
+- Performance-focused Experiences
+- Custom CMS & Laravel Solutions
 
 ---
 
-## 🌍 Portfolio
+## Portfolio
 
 **Website**  
-🌐 https://ryandeman.nl
+🌐 **https://ryandeman.nl**
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 🌐 Portfolio: **https://ryandeman.nl**
 
